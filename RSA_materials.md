@@ -1,13 +1,12 @@
-# RSA-Implementation-Using-Verilog
-This repository contains all code required to implement the RSA encryption algorithm in Verilog.
+# Running LMS on PYNQ_Z1 board
 
-Principal Investigator:
+[Presentation](https://youtu.be/cnxKVU59BXg)
 
-Dr. Mohamed El-Hadedy: Assistant Professor, Electrical and Computer Engineering Department, College of Engineering, California State Polytechnic University, Pomona
-Team Members:
+[Implementation](https://youtu.be/AtVcn33WBqA)
 
-1. Rohith Rajasekaran: Electrical and Computer Engineering Department, College of Engineering, California State Polytechnic University, Pomona
 
-2. Andrew Zarour: Electrical and Computer Engineering Department, College of Engineering, California State Polytechnic University, Pomona
+## NEXSYS4DDR EXPERIEMENT SETUP
+You talk about the summary of the setup on the FPGA kit 
 
-3. Anish Junnarkar: Electrical and Computer Engineering Department, College of Engineering, California State Polytechnic University, Pomona
+## RSA Introduction 
+Write a couple of sentences about usinig RSA for serveral applications and the need for having RSA in embedded systems 
