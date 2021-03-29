@@ -1,8 +1,10 @@
 # RSA Research Presentation and Implementation links: 
 
-[Presentation](https://youtu.be/cnxKVU59BXg)
+[Presentation](https://www.youtube.com/watch?v=8S-ygIxDwUU&feature=youtu.be)
 
-[Implementation](https://youtu.be/AtVcn33WBqA)
+[Implementation with UART](https://drive.google.com/file/d/1bDJhmE3r0L4gQOdEd1IToBC1f-mEaXB9/view)
+[Implementation with VGA+RSA](https://drive.google.com/file/d/11KvQ86XljS62AsEyVRwvzCsHMqd1OFMj/view )
+
 
 
 ## NEXSYS4DDR EXPERIEMENT SETUP
