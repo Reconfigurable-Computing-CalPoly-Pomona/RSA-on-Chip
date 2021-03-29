@@ -10,7 +10,7 @@
 
 ## NEXSYS4DDR EXPERIEMENT SETUP
 
-The NEXSYS4DDR board is a development platform based on the latest Artix-7 FPGA from Xilinx. With it's high-capacity FPGA and its massive external memory, the Nexys has the capacity to host designs ranging from basic combinational circuits to large embedded processors. The board that this project is supported for is the Nexys A7 100T. The components that were used on the NEXSYS4DDR include the micro-usb port (labeled as PROG UART) for UART and the VGA port for the VGA.
+The NEXSYS4DDR board is a development platform based on the latest Artix-7 FPGA from Xilinx. With its high-capacity FPGA and its massive external memory, the Nexys has the capacity to host designs ranging from basic combinational circuits to large embedded processors. The board that this project is supported for is the Nexys A7 100T. The components that were used on the NEXSYS4DDR include the micro-usb port (labeled as PROG UART) for UART and the VGA port for the VGA.
 
 ## RSA Introduction 
 
