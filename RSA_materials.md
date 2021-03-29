@@ -1,4 +1,4 @@
-# Running LMS on PYNQ_Z1 board
+# RSA Research Presentation and Implementation links: 
 
 [Presentation](https://youtu.be/cnxKVU59BXg)
 
