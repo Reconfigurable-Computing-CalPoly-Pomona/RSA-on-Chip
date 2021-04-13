@@ -2,6 +2,8 @@
 
 [Presentation](https://www.youtube.com/watch?v=8S-ygIxDwUU&feature=youtu.be)
 
+[SlideShow](https://docs.google.com/presentation/d/1V4JsDW00Cks3D49s0KIYPJouFk-EsGjTl_OeExiV1PI/edit?usp=sharing)
+
 [Implementation with UART](https://www.youtube.com/watch?v=NgoimC99_kA)
 
 [Implementation with VGA+RSA](https://www.youtube.com/watch?v=Zuuj7DJVnwg )
